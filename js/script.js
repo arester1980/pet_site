@@ -1,4 +1,4 @@
-let lat_abc = `<a href="#!" class="collection-item"><span class="badge">1</span>A</a>
+let lat_abc = `<a href="music_a_list.html" class="collection-item"><span class="badge">1</span>A</a>
 <a href="#!" class="collection-item"><span class="badge">1</span>B</a>
 <a href="#!" class="collection-item"><span class="badge">1</span>C</a>
 <a href="#!" class="collection-item"><span class="badge">1</span>D</a>
